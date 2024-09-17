@@ -1,0 +1,11 @@
+# Number row Characters 
+- ! exclamtion mark
+- @ at symbol
+- \# number 
+- $ dollar
+- % percentage
+- ^ up arrow
+- & and
+- \* star
+- ( open bracket
+- ) close bracket 
