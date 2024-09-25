@@ -16,5 +16,7 @@
 
 [Parts of Computer and Fucntion](https://computerinfobits.com/parts-of-computer-and-their-functions/)
 
-# Expirements :smirk: :sob:
+## Keyboard shortcuts 
+-
+
 
