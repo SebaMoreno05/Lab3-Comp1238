@@ -17,6 +17,14 @@
 [Parts of Computer and Fucntion](https://computerinfobits.com/parts-of-computer-and-their-functions/)
 
 ## Keyboard shortcuts 
--
+ Shortcuts I use frequently
+-Crtl+A
+-Crtl+C
+-Crtl+V
+
+Shortcuts I want to use more 
+-Crtl+T
+-Crtl+W
+-Crtl+N
 
 
