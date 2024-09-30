@@ -18,14 +18,14 @@
 
 ## Keyboard shortcuts 
  Shortcuts I use frequently
--Crtl+A
--Crtl+C
--Crtl+V
+- Crtl+A
+- Crtl+C
+- Crtl+V
 
 
 Shortcuts I want to use more 
--Crtl+T
--Crtl+W
--Crtl+N
+- Crtl+T
+- Crtl+W
+- Crtl+N
 
 
