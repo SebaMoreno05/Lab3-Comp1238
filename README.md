@@ -22,6 +22,7 @@
 -Crtl+C
 -Crtl+V
 
+
 Shortcuts I want to use more 
 -Crtl+T
 -Crtl+W
